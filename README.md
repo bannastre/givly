@@ -1,4 +1,4 @@
-# Givly
+# Givly [![Build Status](https://travis-ci.org/bannastre/givly.svg?branch=master)](https://travis-ci.org/bannastre/givly)
 
 ## Live Generously
 
